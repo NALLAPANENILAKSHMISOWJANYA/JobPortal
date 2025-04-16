@@ -76,3 +76,15 @@ Improved file structure
 Enhanced user authentication and authorization
 Additional features for employers and job seekers
 Thank you for checking out the Job Portal project! If you have any questions or feedback, please don't hesitate to reach out. Happy coding!
+
+## Acknowledgments
+
+This project, **Job Portal**, is developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). We would like to express our sincere gratitude to the open-source community and the developers behind these technologies:
+
+- [MongoDB](https://www.mongodb.com/) for providing a powerful NoSQL database solution.
+- [Express.js](https://expressjs.com/) for enabling fast and minimalist backend development.
+- [React.js](https://reactjs.org/) for the dynamic and responsive frontend experience.
+- [Node.js](https://nodejs.org/) for the scalable server-side JavaScript runtime environment.
+
+Special thanks to GitHub and the broader developer community for sharing valuable resources, libraries, and continuous support throughout the development process.
+
